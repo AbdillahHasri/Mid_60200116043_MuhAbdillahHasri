@@ -1,5 +1,7 @@
 <?php
-	$nama = 'Abdillah';
+	$nama = 'AbdillahHasri';
+	$kelas = 'B';
 	echo $nama;
+	echo $kelas;
 
 ?>
